@@ -1,0 +1,18 @@
+{
+    "name": "desenlike/sendtudophp",
+    "description": "PHP Package to send Whatsapp messages via SendTudo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Érick Nilson Souza Sodré Filho",
+            "email": "erick@desenlike.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload" : {
+        "psr-4" : {
+            "Desenlike\\Sendtudophp\\" :  "src/"
+        }
+    }
+}
