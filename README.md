@@ -4,7 +4,7 @@ PHP Package to send Whatsapp messages via SendTudo
 ## Install
 
 ```bash
-  composer install desenlike/sendtudophp
+  composer require desenlike/sendtudophp
 ```
 
 ## Send Message Example:
